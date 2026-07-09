@@ -51,11 +51,10 @@ git init
 # 4. Instalar dependências
 npm install
 
-# 5. Configurar baseUrl em cypress.config.ts
-#    baseUrl: 'https://url-do-sistema'
+# 5. Renomear .env.example para .env e preencher os valores
 
-# 6. Configurar variáveis em .env
-#    BASE_URL=https://url-do-sistema
+# 6. Configurar baseUrl em cypress.config.ts
+#    baseUrl: 'https://url-do-sistema'
 
 # 7. Abrir Cypress
 npm run cy:open
@@ -128,6 +127,10 @@ nome-do-projeto/
 - [WHITEPAPER.md](WHITEPAPER.md) — decisões arquiteturais, padrões e boas práticas
 - [requirements.txt](requirements.txt) — lista de pacotes com versões mínimas
 - [Cypress Docs](https://docs.cypress.io)
+
+---
+
+Licença: [MIT](LICENSE)
 
 ---
 

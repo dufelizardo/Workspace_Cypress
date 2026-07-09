@@ -63,8 +63,8 @@ npm install
 ```
 
 Após copiar, ajustar obrigatoriamente:
+- Renomear `.env.example` para `.env` e preencher os valores
 - `baseUrl` em `cypress.config.ts`
-- `BASE_URL` e `API_URL` em `.env`
 
 ---
 
