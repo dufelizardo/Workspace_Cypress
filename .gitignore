@@ -1,0 +1,16 @@
+# Projetos individuais — cada um tem seu próprio repositório git
+/*/
+!/_template/
+
+# Dependências e build
+**/node_modules
+**/dist
+
+# Relatórios e artefatos de execução
+**/cypress/reports
+**/cypress/videos
+**/cypress/screenshots
+
+# Variáveis de ambiente
+**/.env
+**/.env.local
