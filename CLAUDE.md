@@ -221,3 +221,8 @@ npm run format
 ```
 
 Nenhum erro de ESLint deve ser ignorado com `// eslint-disable` sem comentário explicando o motivo.
+
+---
+
+**Eduardo Felizardo Cândido**  
+Senior QA Automation Engineer | AI-driven Testing | Robot

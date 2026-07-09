@@ -210,3 +210,8 @@ mochawesome                   Reporter que gera JSON por spec
 mochawesome-merge             Consolida JSONs em um único arquivo
 mochawesome-report-generator  Gera relatório HTML a partir do JSON consolidado
 ```
+
+---
+
+**Eduardo Felizardo Cândido**  
+Senior QA Automation Engineer | AI-driven Testing | Robot

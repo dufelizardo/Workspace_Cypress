@@ -128,3 +128,8 @@ nome-do-projeto/
 - [WHITEPAPER.md](WHITEPAPER.md) — decisões arquiteturais, padrões e boas práticas
 - [requirements.txt](requirements.txt) — lista de pacotes com versões mínimas
 - [Cypress Docs](https://docs.cypress.io)
+
+---
+
+**Eduardo Felizardo Cândido**  
+Senior QA Automation Engineer | AI-driven Testing | Robot

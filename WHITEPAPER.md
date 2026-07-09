@@ -265,3 +265,8 @@ Exemplo de pipeline (GitHub Actions):
 - Suporte a testes de acessibilidade com `cypress-axe`
 - Plugin de cobertura de código com `@cypress/code-coverage`
 - Execução paralela com Cypress Cloud ou `--parallel` local
+
+---
+
+**Eduardo Felizardo Cândido**  
+Senior QA Automation Engineer | AI-driven Testing | Robot

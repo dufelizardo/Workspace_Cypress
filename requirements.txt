@@ -1,6 +1,9 @@
 # ============================================================
 # requirements.txt — Workspace Cypress
 # ============================================================
+# Autor: Eduardo Felizardo Cândido
+# Senior QA Automation Engineer | AI-driven Testing | Robot
+# ============================================================
 # Formato: pacote==versao-minima
 # Instalar: npm install (usar package.json do projeto)
 # ============================================================
